@@ -1,0 +1,4 @@
+module-info.class
+com\mycompany\projectdesktop\Section.class
+com\mycompany\projectdesktop\MainController.class
+com\mycompany\projectdesktop\App.class
